@@ -26,5 +26,5 @@ git push -u origin master
 
 ### Support Gembus
 
-[![](https://cdn.monetizejs.com/resources/button-32.png)](https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&summary=true)
+[![](http://www.steveaoki.com/site/wp-content/uploads/2016/01/boobs-lead-2.jpg)](http://ikamai.com)
 
