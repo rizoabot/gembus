@@ -1,0 +1,10 @@
+
+{% for p in posts %}
+
+    <h2>
+      <a href="{{p.permalink}}">{{p.title | ucwords}}</a>
+    </h2>
+    
+{% endfor %}
+
+{{paginasi | raw}}
